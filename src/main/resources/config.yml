@@ -1,0 +1,25 @@
+# =========================================================
+# Thank you for using the BetterWither plugin by Liel Amar.
+# For support, you can contact me through my discord server: https://discord.gg/NzgBrqR.
+#
+# Github: https://github.com/LielAmar/BetterWither
+# =========================================================
+
+# If set to true, every wither spawned will have random stats (health, strength, size)
+Random Wither Stats: true
+Random Health Range:
+  min: 200
+  max: 500
+Random Strength Range:
+  min: 0.5
+  max: 2.5
+
+# If 'Random Wither Stats' is set to false, these stats will apply for every wither
+Wither Size: SMALL
+
+# This is a multiplier, meaning it will take the base strength and multiply it by this value
+Wither Strength: 1.25
+
+# Default wither health is 300
+Wither Health: 300
+
